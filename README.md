@@ -6,7 +6,7 @@
 ## Парадоксы и симуляции
 • [Парадоксы в теории вероятностей](https://github.com/sshrgzv/RSREU-ProbabilityTheory/blob/main/4/4%20two%20envelopes%20paradox.ipynb) - [условие](https://github.com/sshrgzv/RSREU-ProbabilityTheory/blob/main/4/README.md)
 ## ДСВ
-• [Законы распределения дискретных случайных величин](https://github.com/sshrgzv/RSREU-ProbabilityTheory/blob/main/5/5%20%D0%A1DF.ipynb) - [условие](https://github.com/sshrgzv/RSREU-ProbabilityTheory/blob/main/5/README.md)
+• [Законы распределения дискретных случайных величин](https://github.com/sshrgzv/RSREU-ProbabilityTheory/blob/main/5/5%20%D0%94%D0%A1%D0%92.ipynb) - [условие](https://github.com/sshrgzv/RSREU-ProbabilityTheory/blob/main/5/README.md)
 ## НСВ
-• Создание собственных распределений в Python - [условие](https://github.com/sshrgzv/RSREU-ProbabilityTheory/blob/main/6-7/6/README.md) <br>
+• [Создание собственных распределений в Python](https://github.com/sshrgzv/RSREU-ProbabilityTheory/blob/main/6-7/6/6%20%D0%9D%D0%A1%D0%92.ipynb) - [условие](https://github.com/sshrgzv/RSREU-ProbabilityTheory/blob/main/6-7/6/README.md) <br>
 • Исследование зависимости плотности от параметров НСВ в Python - [условие](https://github.com/sshrgzv/RSREU-ProbabilityTheory/blob/main/6-7/7/README.md)
