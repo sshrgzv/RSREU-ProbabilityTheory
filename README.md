@@ -9,4 +9,4 @@
 • [Законы распределения дискретных случайных величин](https://github.com/sshrgzv/RSREU-ProbabilityTheory/blob/main/5/5%20%D0%94%D0%A1%D0%92.ipynb) - [условие](https://github.com/sshrgzv/RSREU-ProbabilityTheory/blob/main/5/README.md)
 ## НСВ
 • [Создание собственных распределений в Python](https://github.com/sshrgzv/RSREU-ProbabilityTheory/blob/main/6-7/6/6%20%D0%9D%D0%A1%D0%92.ipynb) - [условие](https://github.com/sshrgzv/RSREU-ProbabilityTheory/blob/main/6-7/6/README.md) <br>
-• Исследование зависимости плотности от параметров НСВ в Python - [условие](https://github.com/sshrgzv/RSREU-ProbabilityTheory/blob/main/6-7/7/README.md)
+•[Исследование зависимости плотности от параметров НСВ в Python](https://github.com/sshrgzv/RSREU-ProbabilityTheory/blob/main/6-7/7/7%20%D0%A0%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%9A%D0%BE%D1%88%D0%B8.ipynb) - [условие](https://github.com/sshrgzv/RSREU-ProbabilityTheory/blob/main/6-7/7/README.md)
